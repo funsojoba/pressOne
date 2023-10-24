@@ -35,3 +35,9 @@ For the get method, there was no validation or error handling. To make it more r
 I made up a Django boilerplate app so as to properly run and test the app.
 
 I also added 5 unit tests to test the GET and POST methods.
+
+___
+
+Please run the following codes
+* `python manage.py runserver` to start the development server
+* `python manage.py test` to run the unit tests
