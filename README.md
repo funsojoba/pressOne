@@ -39,5 +39,9 @@ I also added 5 unit tests to test the GET and POST methods.
 ___
 
 Please run the following codes
+* `touch .env` to create an env file and populate it with a value for `DJANGO_SECRET`
 * `python manage.py runserver` to start the development server
 * `python manage.py test` to run the unit tests
+
+
+Happy hacking 🎉
